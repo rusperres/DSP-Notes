@@ -1,5 +1,3 @@
-Notation
-
 Signal processing - refers to the science of analyzing time-varying physical processes
     Analog/Continuous-time Signal - continuous waveform 
     Digital/Discrete-time Signal - quantized time-independent variable
